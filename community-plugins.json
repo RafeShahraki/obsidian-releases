@@ -19150,5 +19150,12 @@
     "author": "marcelflymark",
     "description": "Insert line breaks into tables on mobile devices via shortcut or toolbar.",
     "repo": "marcelflymark/new-line-break-inside-table-cell"
-  }
+  },
+  {
+  "id": "Chrome-Bookmarks-Importer",
+  "name": "Chrome Bookmarks Importer",
+  "author": "Rafe sh",
+  "description": "Bring your Chrome bookmarks into your Obsidian vault — organized, searchable, and linked the way you think.",
+  "repo": "RafeShahraki/Chrome-Bookmarks-Importer"
+}
 ]
